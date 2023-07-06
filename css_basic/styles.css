@@ -2,10 +2,13 @@ main {
   display: flex;
   flex-direction: row;
   flex: auto;
+  background-color: azure;
+  border-radius: 10%;
 }
 body {
   display: flex;
   flex-direction: column;
+  background-color: beige;
 }
 article {
   flex: 2;
